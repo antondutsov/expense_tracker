@@ -16,4 +16,4 @@ A command-line app to record expenses and see totals per category.
     python main.py
 
 ## What I learned
-- Short notes on what was hard and how you solved it
+- Short notes on what was hard and how I solved it
